@@ -56,6 +56,22 @@
 
 ---
 
+### 🎮 MC 联机 QQ（mclanqq） &nbsp;<sub>Minecraft Forge 1.20.1 联机聊天模组</sub>
+
+> 面向 Minecraft Forge 1.20.1 的 QQ 风格联机聊天模组：把「大厅群聊」和「玩家私聊」做成独立聊天窗口，并用提示音 / 弹窗 / 未读角标提醒新消息。全部通过游戏内网络转发，不依赖任何外部服务。
+
+- 🗨️ **大厅群聊 + 玩家私聊**，点击左侧在线玩家即可单独聊
+- 🔔 **新消息提醒**：提示音 + 右上角弹窗 + 底部未读提示 + 会话未读角标
+- 🎨 **二次元像素风 UI**：樱花夜色背景、圆角面板、按昵称生成的 Q 版像素头像，每位玩家名字与气泡专属配色
+- 🔌 **客户端可选**：未安装的玩家也能正常联机，只是看不到聊天界面
+- ⌨️ 默认按键 `0`；自带测试指令 `/mcqq test`
+
+<sub>**技术栈**</sub> &nbsp; `Java` · `Minecraft Forge` · `网络包`
+
+[![Release](https://img.shields.io/github/v/release/miaom4702-art/mclanqq?style=flat-square&color=36BCF7)](https://github.com/miaom4702-art/mclanqq/releases) [![License](https://img.shields.io/github/license/miaom4702-art/mclanqq?style=flat-square&color=36BCF7)](https://github.com/miaom4702-art/mclanqq/blob/master/LICENSE)
+
+---
+
 ## 📊 GitHub 数据
 
 <p align="center">
