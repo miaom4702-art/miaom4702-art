@@ -16,9 +16,9 @@
 
 ## 🚀 核心项目 · 重要贡献
 
-### 🎭 DesktopAI · 月见八千代 &nbsp;<sub>桌面 Live2D AI 伴侣</sub>
+### 🎭 DesktopAI · 月见八千代 &nbsp;<sub>Live2D 桌面 AI 伴侣 · Desktop Live2D AI Companion</sub>
 
-> 把大语言模型、语音识别、语音合成、长期记忆与情感表达整合成一个常驻 Windows 桌面的 Live2D 虚拟角色「月见八千代 / Yachiyo」，与你实时对话。
+> 一款运行于 Windows 桌面的 Live2D 虚拟角色 AI 伴侣，内置角色「月见八千代」（Tsukimi Yachiyo），将大语言模型、语音识别、语音合成、长期记忆与情感表达深度整合，与用户实时对话。
 
 - 🖥️ **实时 Live2D 角色**：无边框透明悬浮窗常驻桌面，按情绪切换表情，并用拼音驱动口型同步
 - 🗣️ **能听会说**：Vosk 离线中文语音输入（支持语音活动打断）+ edge-tts / DashScope CosyVoice 语音合成
